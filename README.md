@@ -108,3 +108,10 @@ This app was deployed on an AWS EC2 instance using the following steps:
      ```
      (Replace `your-ec2-public-ip` with your EC2 public IP address).
 
+---
+
+## 👩‍💻 Author
+
+**Swetha D**  
+GitHub: [@swethad28](https://github.com/swethad28)  
+Aspiring DevOps Engineer 🚀  
